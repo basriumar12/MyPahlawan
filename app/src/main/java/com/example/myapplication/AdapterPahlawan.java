@@ -49,6 +49,7 @@ public class AdapterPahlawan extends RecyclerView.Adapter<AdapterPahlawan.Itemvi
         });
 
     }
+    //////
 
     @Override
     public int getItemCount() {
